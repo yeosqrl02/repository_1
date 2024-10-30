@@ -1,4 +1,6 @@
 <?php
+//INI ADALAH COMMIT PERTAMA YUSTIKA
+
 $barang = [
     ['id' => 1, 'nama' => 'Buku', 'kategori' => 'Alat Tulis', 'harga' => 20000],
     ['id' => 2, 'nama' => 'Pulpen', 'kategori' => 'Alat Tulis', 'harga' => 5000]
